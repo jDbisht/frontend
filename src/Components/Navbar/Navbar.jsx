@@ -14,7 +14,7 @@ export const Navbar = () => {
       <div className="cols-4">
         <ul>
           <li>
-            <a href="/"> Shop</a>
+            <a href={Shop}> Shop</a>
           </li>
           <li>
             <a href="/"> Men</a>
